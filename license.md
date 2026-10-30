@@ -204,4 +204,4 @@ simply how these tools work in practice.
 
 ---
 
-*helldivers-2-toolkit-pack · Updated 2026-10-29 · Shared under the MIT License*
+*helldivers-2-toolkit-pack · Updated 2026-10-30 · Shared under the MIT License*
